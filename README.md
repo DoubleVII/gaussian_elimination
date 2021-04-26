@@ -47,3 +47,30 @@ python gaussian_elimination.py test3
 在实现`gaussian_elimination`时，请注意输入输出的维度与文档描述相符，你可能需要使用`numpy.ndarray.reshape`函数来改变输入输出的形状。
 
 如果你不能通过测试，请检查输出的错误信息来辅助你定位你的错误。
+
+
+## 快速开始
+1. 克隆仓库到本地
+```
+git clone https://github.com/DoubleVII/gaussian_elimination
+```
+如果你无法连接Github服务器，你可以尝试以下命令：
+```
+git clone https://hub.fastgit.org/DoubleVII/gaussian_elimination
+```
+
+2. 在`gaussian_elimination.py`中实现要求的函数。
+
+3. 
+测试第一部分
+```
+python gaussian_elimination.py test1
+```
+测试第二部分
+```
+python gaussian_elimination.py test1
+```
+测试第三部分
+```
+python gaussian_elimination.py test1
+```
